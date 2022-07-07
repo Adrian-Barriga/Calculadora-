@@ -43,7 +43,7 @@
      </widget>
     </item>
     <item row="2" column="1">
-     <widget class="QComboBox" name="comboBox">
+     <widget class="QComboBox" name="operaciones">
       <item>
        <property name="text">
         <string>Sumar</string>

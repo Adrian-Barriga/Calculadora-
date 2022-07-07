@@ -1,7 +1,9 @@
 #ifndef PRINCIPAL_H
 #define PRINCIPAL_H
 
+#include <QMessageBox>
 #include <QMainWindow>
+#include <QLabel>
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class Principal; }
