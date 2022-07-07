@@ -13,3 +13,13 @@ Principal::~Principal()
     delete ui;
 }
 
+
+void Principal::on_pushButton_released()
+{
+
+}
+
+void Principal::on_actionCalcular_triggered()
+{
+
+}

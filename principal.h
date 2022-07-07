@@ -15,7 +15,14 @@ public:
     Principal(QWidget *parent = nullptr);
     ~Principal();
 
+private slots:
+    void on_pushButton_released();
+
+    void on_actionCalcular_triggered();
+
 private:
     Ui::Principal *ui;
+
+    void calcular();
 };
 #endif // PRINCIPAL_H
